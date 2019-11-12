@@ -1,0 +1,6 @@
+Day2 Git
+Git is a version control system - Suversion, Mercurial, perforce
+Git was created by Linus Torval
+It stores files and history of those files
+
+Github- Onlnehosting platform, others include Bitbucket,Gitlab- the most famous
